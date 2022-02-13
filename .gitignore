@@ -37,3 +37,10 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# R markdown
+*.Rmd
+*Rda
+*RDS
+*RDA
+
